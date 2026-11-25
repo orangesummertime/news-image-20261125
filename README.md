@@ -1,5 +1,9 @@
 # World news in one image: Wednesday 25 November 2026
 
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/orangesummertime/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/orangesummertime/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+
 Entry for make.fun `news-image-20261125`: sum up the world's news of
 Wednesday 25 November 2026 in one image.
 
@@ -13,8 +17,7 @@ Ukraine hit a Russian ship in the Gulf of Finland.
 
 ## Program
 
-`main.py` (Python 3.13, standard library only) copies the bundled
-`entry.png` to `/output/entry.png`. No network, no randomness: both
+`main.py` (Python 3.13, standard library only) copies the bundled `entry.png` to `/output/entry.png`. No network, no randomness: both
 grading runs write the same bytes.
 
 ## Files
@@ -28,3 +31,7 @@ grading runs write the same bytes.
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=j6ctznzy&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
